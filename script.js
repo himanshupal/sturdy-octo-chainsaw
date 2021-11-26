@@ -1,2 +1,2 @@
 document.body.innerHTML = null;
-window.location = 'about:blank';
+window.location.replace('about:blank');
