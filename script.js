@@ -1,2 +1,2 @@
-document.body = null;
+document.body = '';
 window.location = 'about:blank';
